@@ -24,7 +24,7 @@
 
 - 👋 Oi, sou o @edersonmarques
 - 👀 Eu estou interessado em programação web
-- 🌱 Estou aprendendo: JavaScript, HTML, CSS e POO com Java
+- 🌱 Estou aprendendo: JavaScript, HTML, CSS e Java
 - 📫 edersondesouzamarques@gmail.com
 
 <!---
@@ -35,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @edersonmarques
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript, HTML, CSS and OOP with Java
-- 📫 email: edersondesouzamarques@gmail.com
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Java
+- 📫 edersondesouzamarques@gmail.com
 
 
 
