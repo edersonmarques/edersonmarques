@@ -29,5 +29,5 @@
 
 - 👋 Hi, I’m @edersonmarques
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript, HTMLand CSS.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 edersondesouzamarques@gmail.com
