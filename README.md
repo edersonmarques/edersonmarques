@@ -18,8 +18,6 @@
 
 </p>
 
-<!--hmmmmmmmmmmmm-->
-
 
 
 - 👋 Oi, sou o @edersonmarques
@@ -35,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @edersonmarques
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Java
+- 🌱 I’m currently learning JavaScript, HTML, CSS
 - 📫 edersondesouzamarques@gmail.com
 
 
