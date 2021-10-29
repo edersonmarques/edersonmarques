@@ -25,22 +25,8 @@
 - 🌱 Estou aprendendo: JavaScript, HTML, CSS e Java
 - 📫 edersondesouzamarques@gmail.com
 
-<!---
-edersonmarques/edersonmarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 - 👋 Hi, I’m @edersonmarques
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 📫 edersondesouzamarques@gmail.com
-
-
-
-
-
-<!---
-edersonmarques/edersonmarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
