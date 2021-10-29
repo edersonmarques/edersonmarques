@@ -22,7 +22,7 @@
 
 - 👋 Oi, sou o @edersonmarques
 - 👀 Eu estou interessado em programação web
-- 🌱 Estou aprendendo: JavaScript, HTML, CSS e Java
+- 🌱 Estou aprendendo: JavaScript, HTML, CSS.
 - 📫 edersondesouzamarques@gmail.com
 
 
