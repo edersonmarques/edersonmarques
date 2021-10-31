@@ -19,13 +19,13 @@
 </p>
 
 - 👋 Oi, sou o @edersonmarques
-- 👀 Eu estou interessado em desenvolvimento web
+- 👀 Eu estou interessado em desenvolvimento web.
 - 🌱 Estou aprendendo: JavaScript, HTML e CSS.
 - 📫 edersondesouzamarques@gmail.com
 
 <br>
 
 - 👋 Hi, I’m @edersonmarques
-- 👀 I’m interested in web programming
+- 👀 I’m interested in web programming.
 - 🌱 I’m currently learning: JavaScript, HTML and CSS.
 - 📫 edersondesouzamarques@gmail.com
