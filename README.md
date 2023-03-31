@@ -1,5 +1,11 @@
 <h1>Oi! Eu sou o Éderson :D</h1>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edersonmarques&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edersonmarques&repo=convoychat" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonmarques)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark)
 
