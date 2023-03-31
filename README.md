@@ -1,16 +1,11 @@
 <h1>Oi! Eu sou o Éderson :D</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edersonmarques&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edersonmarques&repo=convoychat" />
-</a>
+<div>
+<a href="https://github.com/edersonmarques">
+ <img width="500em" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonmarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="500em" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonmarques&layout=compact&langs_count=7&theme=dark"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonmarques)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonmarques)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
- 
+</div>
 
 </p>
 
