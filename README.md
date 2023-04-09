@@ -26,7 +26,20 @@
 <a target="_blank" href="https://gitlab.com/">
   <img align="right" src="gitlab(1).svg" height="25" width="25" />
 </a>
--->
+--> <br><br>
+
+- 👋 Oi, sou o @edersonmarques
+- 👀 Eu estou interessado em desenvolvimento web.
+- 🌱 Estou aprendendo: JavaScript, HTML e CSS.
+- 📫 edersondesouzamarques@gmail.com
+
+<br>
+
+- 👋 Hi, I’m @edersonmarques
+- 👀 I’m interested in web programming.
+- 🌱 I’m currently learning: JavaScript, HTML and CSS.
+- 📫 edersondesouzamarques@gmail.com
+
 ---
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=edersonmarques&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
