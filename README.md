@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=704f0a" height="16" />
   <img src="https://img.shields.io/badge/HTML5-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
   <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=1f053a" height="16" />
   
 <!--  <h6>Learning:</h6>
 <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=704f0a" height="16" />
