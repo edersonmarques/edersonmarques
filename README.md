@@ -14,19 +14,6 @@
 </a>
 -->
 
-<!--
-<a target="_blank" href="">
-  <img align="right" src="globe(1).svg" height="25" width="25"/>
-</a>
-<a target="_blank" href="">
-  <img align="right" src="linkedin.svg" height="25" width="25" />
-</a>
-
-<a target="_blank" href="https://gitlab.com/">
-  <img align="right" src="gitlab(1).svg" height="25" width="25" />
-</a>
---> <br><br>
-
 - 👋 Oi, sou o @edersonmarques
 - 👀 Eu estou interessado em desenvolvimento web.
 - 🌱 Estou aprendendo: JavaScript, HTML e CSS.
@@ -41,6 +28,18 @@
 
 ---
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=edersonmarques&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite&count_private=true" width="440"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edersonmarques&layout=compact&theme=graywhite&hide_border=true" width="303"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=edersonmarques&rank_icon=github&show_icons=true&theme=midnight-purple">
+    <img
+      height="200"
+      align="center"
+      src="https://github-stats-extended.vercel.app/api?username=edersonmarques&rank_icon=github&show_icons=true&theme=midnight-purple"
+    />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=edersonmarques&layout=donut&langs_count=5&theme=midnight-purple">
+    <img
+      height="200"
+      align="center"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=edersonmarques&layout=donut&langs_count=5&theme=midnight-purple"
+    />
+  </a>
 </div>
