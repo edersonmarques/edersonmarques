@@ -15,15 +15,13 @@
 -->
 
 - 👋 Oi, sou o @edersonmarques
-- 👀 Eu estou interessado em desenvolvimento web.
-- 🌱 Estou aprendendo: JavaScript, HTML e CSS.
+- 👀 Eu estou interessado em desenvolvimento web e automações.
 - 📫 edersondesouzamarques@gmail.com
 
 <br>
 
 - 👋 Hi, I’m @edersonmarques
-- 👀 I’m interested in web programming.
-- 🌱 I’m currently learning: JavaScript, HTML and CSS.
+- 👀 I’m interested in web programming and automation.
 - 📫 edersondesouzamarques@gmail.com
 
 ---
